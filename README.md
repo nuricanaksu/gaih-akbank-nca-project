@@ -93,33 +93,22 @@ opencv-python>=4.5.0
 ## Sonuç ve Gelecek Çalışmalar
 
 ### Mevcut Başarılar
-- %91 test accuracy ile robust bir model geliştirildi
-- Transfer Learning sayesinde hızlı ve etkili eğitim sağlandı
-- Tüm sınıflar için dengeli performans elde edildi
-- Klinik kullanım için yeterli güvenilirlik düzeyine ulaşıldı
+- %91 test accuracy ile güçlü bir model geliştirildi
+- Transfer Learning sayesinde hızlı eğitim sağlandı
+- Bootcamp gereksinimlerini başarıyla karşıladı
 
-### Gelecek Geliştirmeler
-1. **Model İyileştirmeleri:**
-   - EfficientNet, ResNet gibi farklı backbone'lar deneme
-   - Ensemble methods ile performans artırma
-   - Data augmentation stratejileri geliştirme
+### Gelecek İyileştirmeler
+1. **Model deneyimleri:**
+   - Farklı learning rate'ler deneme
+   - Daha fazla epoch ile eğitim
+   - Data augmentation ekleme
 
-2. **Deployment Çalışmaları:**
-   - Streamlit/Flask web uygulaması geliştirme
-   - Real-time inference API oluşturma
-   - Mobile deployment için model optimization
+2. **Öğrenme hedefleri:**
+   - Daha fazla dataset ile pratik yapma
+   - Farklı CNN mimarilerini öğrenme
+   - Web uygulaması geliştirmeyi öğrenme
 
-3. **Veri Genişletme:**
-   - Daha büyük dataset'lerle eğitim
-   - 3D MRI volume processing
-   - Multi-modal imaging (T1, T2, FLAIR) entegrasyonu
-
-4. **Klinik Entegrasyon:**
-   - Radyolog feedback loop sistemi
-   - DICOM format desteği
-   - Hospital information systems entegrasyonu
-
-Bu proje, medikal AI alanında kariyer hedeflerim doğrultusunda temel bir adım oluşturmaktadır.
+Bu proje, derin öğrenme alanında ilk ciddi deneyimim olarak değerli bir başlangıç oluşturdu.
 
 ## Linkler
 
